@@ -43,7 +43,3 @@ This project showcases psychological services, includes privacy policy and good 
  ```bash
  npm install
  npm run dev
-
-
-
-
