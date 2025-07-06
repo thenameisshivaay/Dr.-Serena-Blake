@@ -39,10 +39,11 @@ This project showcases psychological services, includes privacy policy and good 
    git clone https://github.com/your-username/dr-serena-blake-site.git
    cd dr-serena-blake-site
    
-2.Install dependencies:
-  npm install
+2. Install dependencies & 3.Run the development server:
+ ```bash
+ npm install
+ npm run dev
 
-3.Run the development server:
-  npm run dev
+
 
 
