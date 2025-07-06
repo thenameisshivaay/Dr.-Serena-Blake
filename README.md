@@ -32,7 +32,7 @@ This project showcases psychological services, includes privacy policy and good 
 
 ---
 
-## 📦 Installation
+ 📦 Installation
 
 1. Clone the repository:
    ```bash
@@ -45,12 +45,4 @@ This project showcases psychological services, includes privacy policy and good 
 3.Run the development server:
   npm run dev
 
-Folder Structure
-src/
-├── components/         # Reusable components (Hero, Footer, Header, etc.)
-├── pages/              # Page-level components (Home, Privacy, Estimate)
-├── App.jsx             # Root component with routing logic
-├── main.jsx            # Entry point (ReactDOM)
-├── index.css           # Tailwind base + custom styles
-├── assets/             # Logo, videos, or static assets
 
